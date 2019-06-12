@@ -3,8 +3,8 @@ import { Route, routerRedux, Switch } from 'dva/router';
 import { LocaleProvider } from 'antd';
 import zhCN from 'antd/es/locale-provider/zh_CN';
 // import dynamic from 'dva/dynamic';
-import marketingRouteConfig from 'marketing';
-import GoodsRouteConfig from 'goods';
+// import marketingRouteConfig from 'marketing';
+// import GoodsRouteConfig from 'goods';
 import LayoutContainer from './LayoutContainer';
 import TemplateContainer from './TemplateContainer';
 
@@ -12,8 +12,8 @@ import TemplateContainer from './TemplateContainer';
 const { ConnectedRouter } = routerRedux;
 const routers = [];
 let routeConfig;
-routers.push(marketingRouteConfig);
-routers.push(GoodsRouteConfig);
+// routers.push(marketingRouteConfig);
+// routers.push(GoodsRouteConfig);
 // function importAll(r) {
 //   r.keys().forEach(key => routers.push(r(key).default || r(key)));
 // }

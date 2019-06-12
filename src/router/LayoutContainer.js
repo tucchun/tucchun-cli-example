@@ -1,36 +1,29 @@
-import * as React from 'react';
-import { Layout, Icon, Breadcrumb } from 'antd';
-import { connect } from 'dva';
-import { routerRedux, withRouter, Link } from 'dva/router';
-import LayoutMenu from 'components/menu/Menu';
-import LayoutSubMenu from 'components/menu/SubMenuList';
+import * as React from "react";
+import { Layout, Icon, Breadcrumb } from "antd";
+import { connect } from "dva";
+import { routerRedux, withRouter, Link } from "dva/router";
+import LayoutMenu from "components/menu/Menu";
+import LayoutSubMenu from "components/menu/SubMenuList";
 // import { routers } from 'router';
-import layoutStyle from './layout.less';
+import layoutStyle from "./layout.less";
 
 const { Header, Footer, Sider, Content } = Layout;
 
-const routes = [
-  {
-    path: 'index',
-    breadcrumbName: 'home',
-  },
-  {
-    path: 'second',
-    breadcrumbName: 'second',
-  },
-];
-
 function itemRender(route, params, routes, paths) {
   const last = routes.indexOf(route) === routes.length - 1;
-  return last ? <span>{route.name}</span> : <Link to={route.path}>{route.name}</Link>;
+  return last ? (
+    <span>{route.name}</span>
+  ) : (
+    <Link to={route.path}>{route.name}</Link>
+  );
 }
 
 class LayoutContainer extends React.Component {
   state = {
     showSubMenu: false,
-    mouseEnterMenuKey: '',
-    selectedMenuKey: '',
-    selectedSubMenuItemKey: '',
+    mouseEnterMenuKey: "",
+    selectedMenuKey: "",
+    selectedSubMenuItemKey: ""
   };
 
   subMenuMouseEnter = false;
@@ -40,27 +33,41 @@ class LayoutContainer extends React.Component {
   componentDidMount() {
     const { dispatch, location, match } = this.props;
     dispatch({
-      type: 'global/initGlobel',
+      type: "global/initGlobel",
       payload: {
         location,
-        match,
-      },
+        match
+      }
     });
   }
 
   render() {
-    const { menus, children, initMenuKey, initSubMenuItemKey, breadcrumbData } = this.props;
+    const {
+      menus,
+      children,
+      initMenuKey,
+      initSubMenuItemKey,
+      breadcrumbData
+    } = this.props;
     console.log(initMenuKey, initSubMenuItemKey, breadcrumbData);
-    const { showSubMenu, mouseEnterMenuKey, selectedMenuKey, selectedSubMenuItemKey } = this.state;
+    const {
+      // showSubMenu,
+      mouseEnterMenuKey,
+      selectedMenuKey,
+      selectedSubMenuItemKey
+    } = this.state;
     return (
-      <Layout style={{ height: '100%' }}>
-        <Sider width="89" style={{ backgroundColor: '#0e4780' }}>
-          <div onMouseLeave={this.handleMenuMouseLeave} onMouseEnter={this.handleMenuMouseEnter}>
+      <Layout style={{ height: "100%" }}>
+        <Sider width="89" style={{ backgroundColor: "#0e4780" }}>
+          <div
+            onMouseLeave={this.handleMenuMouseLeave}
+            onMouseEnter={this.handleMenuMouseEnter}
+          >
             <LayoutMenu
               menus={menus}
               menuProps={{ selectable: false, className: layoutStyle.menu }}
               menuItemProps={{
-                onMouseEnter: this.handleMenuItemMouseEnter,
+                onMouseEnter: this.handleMenuItemMouseEnter
               }}
             />
           </div>
@@ -69,20 +76,27 @@ class LayoutContainer extends React.Component {
           <Sider
             className={layoutStyle.subMenuWrapper}
             style={{
-              display: mouseEnterMenuKey || selectedMenuKey || initMenuKey ? 'block' : 'none',
+              display:
+                mouseEnterMenuKey || selectedMenuKey || initMenuKey
+                  ? "block"
+                  : "none"
             }}
             onMouseLeave={this.handleSubMenuMouseLeave}
             onMouseEnter={this.handleSubMenuMouseEnter}
           >
             <LayoutSubMenu
               menus={menus}
-              selectedMenuKey={mouseEnterMenuKey || selectedMenuKey || initMenuKey}
-              selectedSubMenuItemKey={selectedSubMenuItemKey || initSubMenuItemKey}
+              selectedMenuKey={
+                mouseEnterMenuKey || selectedMenuKey || initMenuKey
+              }
+              selectedSubMenuItemKey={
+                selectedSubMenuItemKey || initSubMenuItemKey
+              }
               menuProps={{ onClick: this.handleSubMenuClick }}
             />
           </Sider>
           <Layout>
-            <Header style={{ backgroundColor: '#fff', padding: 0, margin: 0 }}>
+            <Header style={{ backgroundColor: "#fff", padding: 0, margin: 0 }}>
               <div className={layoutStyle.innerHeader}>
                 <div className={layoutStyle.operate}>
                   <Icon type="menu-fold" />
@@ -116,7 +130,7 @@ class LayoutContainer extends React.Component {
     // console.log('handleMenuItemMouseEnter', +new Date());
     this.setState({
       mouseEnterMenuKey: e.key,
-      showSubMenu: true,
+      showSubMenu: true
     });
     e.domEvent.stopPropagation();
   };
@@ -129,8 +143,8 @@ class LayoutContainer extends React.Component {
         const { selectedMenuKey } = this.state;
         if (selectedMenuKey) {
           this.setState({
-            mouseEnterMenuKey: '',
-            showSubMenu: true,
+            mouseEnterMenuKey: "",
+            showSubMenu: true
           });
         }
       }
@@ -145,12 +159,12 @@ class LayoutContainer extends React.Component {
         const { selectedMenuKey } = this.state;
         if (selectedMenuKey) {
           this.setState({
-            mouseEnterMenuKey: '',
-            showSubMenu: true,
+            mouseEnterMenuKey: "",
+            showSubMenu: true
           });
         } else {
           this.setState({
-            showSubMenu: false,
+            showSubMenu: false
           });
         }
       }
@@ -161,16 +175,16 @@ class LayoutContainer extends React.Component {
     const { dispatch, urlMap, location, menus } = this.props;
     const menuKey = keyPath[keyPath.length - 1];
     const { pathname } = location;
-    const path = urlMap.get(url)
+    const path = urlMap.get(url);
     const menu = menus[path[2]].children[path[1]].children[path[0]];
     this.setState({
       selectedMenuKey: menuKey,
-      selectedSubMenuItemKey: key,
+      selectedSubMenuItemKey: key
     });
     dispatch(routerRedux.push(url));
     dispatch({
-      type: 'global/setRoutes',
-      payload: [{ path: pathname, name: menu.name }],
+      type: "global/setRoutes",
+      payload: [{ path: pathname, name: menu.name }]
     });
   };
 }
@@ -179,13 +193,12 @@ class LayoutContainer extends React.Component {
 //     routes: [], // 面包屑数据
 export default withRouter(
   connect(({ global = {} }) => {
-    
     return {
       menus: global.menus,
       urlMap: global.urlMap,
       initMenuKey: global.initMenuKey,
       initSubMenuItemKey: global.initSubMenuItemKey,
-      breadcrumbData: global.routes,
+      breadcrumbData: global.routes
     };
   })(LayoutContainer)
 );

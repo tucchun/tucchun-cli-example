@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { Menu } from 'antd';
-import { IMenu } from 'models/global';
 
 const { SubMenu } = Menu;
 class SubMenuComponent extends React.PureComponent {
