@@ -1,0 +1,1989 @@
+{
+  "code": 200,
+  "message": "执行成功！",
+  "timestamp": 1559009928395,
+  "data": {
+    "id": 13036482,
+    "account": "134329",
+    "mobile": "13265821210",
+    "email": "tuchuanchun@rainbowcn.com",
+    "realName": "涂传春",
+    "gender": 1,
+    "status": 1,
+    "headIcon": "/assets/img/2019/5/15/20DSX18qu4GCRSoAxzZojg3o.jpg",
+    "jobNum": "134329",
+    "deptCode": "10792256",
+    "dept": "数字化经营中心技术研发",
+    "positionId": 446341,
+    "platform": 1,
+    "acceptMsg": 1,
+    "position": "数字化经营中心高级前端开发工程师",
+    "jobStatus": 1,
+    "userStores": [
+      {
+        "userId": 13036482,
+        "storeCode": "00127"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00103"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00116"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00114"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00113"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00104"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00202"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "02301"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00117"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00125"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00120"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00107"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00109"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00126"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00129"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00123"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00110"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00115"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00118"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01003"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01002"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01006"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00119"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01004"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01102"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01103"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "02204"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00130"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00131"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00124"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00121"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00112"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "01104"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "00190"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "06101"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "70001"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "60001"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "60002"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "60003"
+      },
+      {
+        "userId": 13036482,
+        "storeCode": "60006"
+      }
+    ],
+    "authKeys": [
+      "coupon-ms-ec-backend.coupon.operate",
+      "coupon-ms-ec-backend.coupon.query",
+      "promo-ms-backend.promo.query",
+      "promo-ms-backend.promo.operate",
+      "promo-ms-backend.store-promo.query",
+      "support-admin.support.audit",
+      "order-ms-ent-backend.orderManager.export",
+      "order-ms-ent-backend.orderManager.detail",
+      "order-ms-ent-backend.orderManager.audit",
+      "order-ms-ent-backend.orderManager.cancel",
+      "order-ms-ent-backend.orderManager.import",
+      "hlj.order2.evaluate",
+      "hlj.operate.template.manage",
+      "comment-admin.commentManager.comment-activity-zzmd",
+      "comment-admin.commentManager.comment-activity-pad",
+      "comment-admin.commentManager.comment-activity-pos",
+      "comment-admin.commentManager.comment-department",
+      "comment-admin.commentManager.sensitive-word-list",
+      "comment-admin.commentManager.comment-list",
+      "shop-ms-backend.primaryAccount.update",
+      "shop-ms-backend.primaryAccount.search",
+      "shop-ms-backend.primaryAccount.create",
+      "shop-ms-backend.role.update",
+      "shop-ms-backend.role.search",
+      "shop-ms-backend.role.create",
+      "shop-ms-backend.shopBusiness.search",
+      "shop-ms-backend.shopBusiness.update",
+      "hlj.distribution.hot.list.parent",
+      "hlj.distribution.hot.list",
+      "hlj.distribution.hot.edit",
+      "hlj.distribution.hot.save",
+      "hlj.onlineticket.list.parent",
+      "hlj.onlineticket.list",
+      "hlj.onlineticket.detail",
+      "hlj.onlineticket.export",
+      "hlj.onlineticket.download_excel",
+      "hlj.order2.afterSaleOrder",
+      "hlj.onlineticket.service_list.parent",
+      "hlj.onlineticket.service_list",
+      "hlj.onlineticket.service_detail",
+      "hlj.onlineticket.service_reverseorder",
+      "hlj.onlineticket.service_refundamount",
+      "hlj.coupon.use.info",
+      "hlj.coupon.use.info.data",
+      "hlj.coupon.use.info.report.download",
+      "hlj.coupon.abolition.get_data",
+      "hlj.coupon.abolition.abolition.cpcode",
+      "hlj.coupon.abolition.abolition.serialid",
+      "hlj.marketing2.circumShop",
+      "hlj.coupon.zbsh.use.info",
+      "hlj.coupon.zbsh.use.info.data",
+      "hlj.coupon.zbsh.use.info.report.download",
+      "hlj.merchants.coupon.abolition.get_data",
+      "hlj.merchants.coupon.abolition.abolition.cpcode",
+      "hlj.merchants.coupon.abolition.abolition.serialid",
+      "hlj.coupon_activities",
+      "hlj.activity.opact_list.parent",
+      "hlj.activity.opact_list",
+      "hlj.activity.opact_add",
+      "hlj.activity.opact_edit",
+      "hlj.activity.opact_status",
+      "hlj.activity.opact_del",
+      "hlj.activity.opact_qrcode",
+      "hlj.activity.opact_export",
+      "hlj.activity.opact_download_qrcode",
+      "hlj.activity.opact_upload",
+      "hlj.activity.couponcfg_list",
+      "hlj.activity.coupon.bind",
+      "hlj.activity.coupon.bindview",
+      "hlj.activity.H5.index.parent",
+      "hlj.activity.H5.index",
+      "hlj.activity.H5.search",
+      "hlj.activity.H5.view_qrcode",
+      "hlj.activity.H5.edit",
+      "hlj.activity.H5.save",
+      "hlj.activity.H5.get_ad",
+      "hlj.activity.H5.save_ad",
+      "hlj.activity.H5.coupon.search",
+      "hlj.activity.H5.areamall",
+      "hlj.activity.H5.operate.parent",
+      "hlj.activity.H5.operate",
+      "hlj.activity.H5.delete",
+      "hlj.activity.h5.report",
+      "hlj.activity.h5.report.down",
+      "hlj.activity.h5.report.list",
+      "hlj.activity.h5.reportGoods.list",
+      "hlj.activity.H5.h5add",
+      "hlj.activity.H5.import_goods",
+      "hlj.activity.H5.save_goods",
+      "hlj.activity.H5.save_goodsimg",
+      "hlj.activity.H5.exportgoods",
+      "hlj.activity.H5.downloadgoods",
+      "hlj.activity.H5.goods_list",
+      "hlj.activity.H5.delete_goods",
+      "hlj.draw.list.parent",
+      "hlj.draw.list",
+      "hlj.draw.add",
+      "hlj.draw.edit",
+      "hlj.draw.save",
+      "hlj.draw.changeStatus",
+      "hlj.draw.operationRecord",
+      "hlj.draw.selectStore",
+      "hlj.draw.record",
+      "hlj.draw.giveAward",
+      "hlj.draw.modifyAddr",
+      "hlj.draw.export",
+      "hlj.draw.view",
+      "hlj.coupon_bag.list",
+      "hlj.coupon_bag.add",
+      "hlj.coupon_bag.edit",
+      "hlj.coupon_bag.save",
+      "hlj.coupon_bag.release",
+      "hlj.coupon_bag.op_log",
+      "hlj.coupon_bag.cp_search",
+      "hlj.coupon_bag.cp_amount",
+      "hlj.coupon_bag.area_list",
+      "hlj.coupon_bag.pause",
+      "hlj.coupon_bag.bag_cp",
+      "hlj.coupon_bag.view_qrcode",
+      "hlj.coupon_bag.download_qrcode",
+      "hlj.coupon_bag.refund.parent",
+      "hlj.coupon_bag.refund",
+      "hlj.coupon_bag.refund_export",
+      "hlj.coupon_bag.expire",
+      "hlj.coupon_bag.expire_export",
+      "hlj.couponShare.list.parent",
+      "hlj.couponShare.list",
+      "hlj.couponShare.add",
+      "hlj.couponShare.save",
+      "hlj.couponShare.edit",
+      "hlj.couponShare.changeStatus",
+      "hlj.couponShare.view",
+      "hlj.couponShare.operationRecord",
+      "hlj.distribution.banner.list.parent",
+      "hlj.distribution.banner.list",
+      "hlj.distribution.banner.edit",
+      "hlj.distribution.banner.save",
+      "hlj.sysoptions.list.parent",
+      "hlj.sysoptions.list",
+      "hlj.sysoptions.sublist",
+      "hlj.sysoptions.save",
+      "hlj.sysoptions.delete",
+      "hlj.sysoptions.status",
+      "hlj.system2.userSuggest",
+      "hlj.feedback.advice.list",
+      "hlj.feedback.search",
+      "hlj.feedback.advice.view",
+      "hlj.feedback.delete",
+      "hlj.feedback.complaints.list",
+      "hlj.feedback.complaints.search",
+      "hlj.feedback.complaints.view",
+      "hlj.feedback.complaints.delete",
+      "hlj.operation2.weixinGiftCard",
+      "hlj.ecard.page.edit",
+      "hlj.ecard.themes.getthemeext",
+      "hlj.ecard.themes.getCardData",
+      "hlj.ecard.background.save",
+      "hlj.ecard.page.save",
+      "hlj.ecard.page.updaeWxPage",
+      "hlj.ecard.page.deleteTheme",
+      "hlj.ecard.table.deleteData",
+      "hlj.ecard.background.edit",
+      "hlj.ecard.cardTheme.list",
+      "hlj.ecard.cardThemes.save",
+      "hlj.ecard.cardThemesExtSave",
+      "hlj.ecard.themes.edit",
+      "hlj.ecard.themes.extEdit",
+      "hlj.ecard.giftCard.list",
+      "hlj.ecard.giftCard.edit",
+      "hlj.ecard.giftCard.save",
+      "hlj.ecard.giftCard.import",
+      "hlj.ecard.report.list",
+      "hlj.ecard.report.export",
+      "hlj.brandManage.list.parent",
+      "hlj.brandManage.list",
+      "hlj.brandManage.edit",
+      "hlj.brandManage.status",
+      "hlj.operate.appCard.manage",
+      "hlj.ecard.appCard.cardManage",
+      "hlj.ecard.appCard.cardSave",
+      "hlj.ecard.appCard.publishDataCache",
+      "hlj.ecard.appCard.cardAmount",
+      "hlj.ecard.appCard.cardAmountSave",
+      "hlj.ecard.appCard.cardAmount.publishDataCache",
+      "hlj.ecard.appCardReport.list",
+      "hlj.ecard.appCardReport.export",
+      "hlj.operate.newpad.manage",
+      "hlj.newpad.devicestoreList",
+      "hlj.newpad.devicestoreSave",
+      "hlj.newpad.devicestoreDel",
+      "hlj.newpad.devicestorePublish",
+      "hlj.template.list",
+      "hlj.template.add",
+      "hlj.template.post",
+      "hlj.template.del",
+      "hlj.template.selectStore",
+      "hlj.template.selectMerchant",
+      "hlj.template.updateImages",
+      "hlj.template.exportQRcode",
+      "hlj.template.release",
+      "hlj.template.preview",
+      "hlj.template.retract",
+      "hlj.template.survey.stat",
+      "hlj.template.survey.chart",
+      "hlj.template.survey.export",
+      "hlj.template.tcfgdetail",
+      "hlj.template.savetcfg",
+      "hlj.template.merchant.list",
+      "hlj.sms.customer_visit",
+      "hlj.sms.statistics_report",
+      "hlj.sms.blacklist_management",
+      "hlj.operate.store.manage",
+      "hlj.integral.store.list",
+      "hlj.integral.store.add",
+      "hlj.integral.store.edit",
+      "hlj.integral.store.status",
+      "hlj.integral.bs.list",
+      "hlj.integral.bs.edit",
+      "hlj.integral.bs.import",
+      "hlj.integral.bs.export",
+      "hlj.integral.coupon.list",
+      "hlj.integral.coupon.list_data",
+      "hlj.integral.coupon.pause",
+      "hlj.integral.coupon.start",
+      "hlj.integral.coupon.del",
+      "hlj.integral.coupon.modal",
+      "hlj.integral.coupon.cp_list",
+      "hlj.integral.coupon.select",
+      "hlj.receipt.audit_list",
+      "hlj.receipt.audit_detail",
+      "hlj.receipt.audit_save",
+      "hlj.coupon.abolition.list",
+      "hlj.coupon.bind",
+      "hlj.coupon.ajaxCheckbox",
+      "hlj.merchants.coupon.abolition.list",
+      "hlj.marketing2.offline",
+      "hlj.receipt.audit_list.parent",
+      "hlj.integral.store.list.parent",
+      "app-version-ms-admin.versionList.versionList",
+      "hlj.coupon.bind.parent",
+      "product-ms-ent-backend.productManager.updateTotalStock",
+      "product-ms-ent-backend.productManager.updateSaleStatus",
+      "product-ms-ent-backend.productManager.updateSalePrice",
+      "product-ms-ent-backend.productManager.removeCustomerRecord",
+      "product-ms-ent-backend.productManager.listCustomerProduct",
+      "product-ms-ent-backend.productManager.exportProduct",
+      "hlj.coupon_bag.expire.parent",
+      "hlj.integral.store.scoreTimes",
+      "module-ms-backend.module.operate",
+      "member-ms-backend.enterpriseManager.contractList",
+      "member-ms-backend.enterpriseManager.contractClear",
+      "member-ms-backend.enterpriseManager.contractDelete",
+      "member-ms-backend.enterpriseManager.contractSave",
+      "member-ms-backend.enterpriseManager.enterpriseGet",
+      "member-ms-backend.enterpriseManager.enterpriseSave",
+      "member-ms-backend.enterpriseManager.enterpriseStatusInfo",
+      "member-ms-backend.enterpriseManager.list",
+      "member-ms-backend.enterpriseManager.StaffSave",
+      "member-ms-backend.enterpriseManager.StaffEdit",
+      "member-ms-backend.enterpriseManager.StaffStateOperate",
+      "member-ms-backend.enterpriseManager.MemberLabelBagManagerBindLabel",
+      "member-ms-backend.enterpriseManager.MemberLabelBagManagerListBindLabel",
+      "member-ms-backend.enterpriseManager.MemberLabelManagerSave",
+      "member-ms-backend.enterpriseManager.MemberLabelManagerStateOperate",
+      "member-ms-backend.enterpriseManager.MemberLabelManagerReviewAdmin",
+      "member-ms-backend.enterpriseManager.MemberLabelManagerValidTitle",
+      "hlj.system2.basicInfo",
+      "pay-safety-ms-backend.paySafe.query",
+      "pay-safety-ms-backend.paySafe.operate",
+      "auth-ms.role.query",
+      "auth-ms.user.query",
+      "auth-ms.user.operate",
+      "hlj.operation2.merchantManage",
+      "peration.center.shopList",
+      "peration.center.auth",
+      "hlj.system2",
+      "hlj.system2.account",
+      "system.manager.userAuthManage",
+      "system.manager.roleManage",
+      "product-ms-ent-backend.productManager.listProduct",
+      "hlj.page2.functionPage",
+      "hlj.page2.functionPage.home",
+      "hlj.page2.functionPage.shop",
+      "hlj.page2.functionPage.page",
+      "hlj.page2.functionPage.navbar",
+      "hlj.member2",
+      "hlj.member2.operation",
+      "member-ms-backend.enterpriseManager.MemberLabelBagManagerList",
+      "member-ms-backend.enterpriseManager.MemberLabelManagerList",
+      "hlj.member2.member",
+      "member-ms-backend.enterpriseManager.enterpriseList",
+      "member-ms-backend.enterpriseManager.balanceList",
+      "system.basicInfo.paySafe",
+      "hlj.product2.adjustPrice",
+      "hlj.marketing2.promotion",
+      "marketing.manager.promo",
+      "marketing.manager.store-promo",
+      "product-ms-ent-backend.productManager.listSkuPriceDetail",
+      "message-ms-backend.message.template.mini.operate",
+      "message-ms-backend.message.template.mini.query",
+      "hlj.activity.couponcfg_edit",
+      "hlj.sms.readCustomerVisit",
+      "hlj.sms.batchPourBlacklist",
+      "hlj.activity.couponcfg_add",
+      "hlj.activity.couponcfg_publish",
+      "hlj.sms.saveBatchPourBlacklist",
+      "hlj.sms.getAreaMalls",
+      "hlj.sms.detailReadCustomerVisit",
+      "hlj.sms.addBlacklist",
+      "hlj.sms.downBlacklist",
+      "hlj.sms.deleteBlack",
+      "hlj.sms.searchBlackPhone",
+      "hlj.page2.shop_license",
+      "shop.enterprise.qualification",
+      "shop-ms-backend.companyQualifications.save",
+      "shop-ms-backend.companyQualifications.select",
+      "shop-ms-backend.companyQualifications.update",
+      "shop-ms-backend.shopBusiness.selectCompanyInfo",
+      "order-ms-ent-backend.orderManager.list",
+      "auth-ms.user.operateDept",
+      "shop-ms-backend.primaryAccount.updateStatus",
+      "shop-ms-backend.primaryAccount.updatePwd",
+      "hlj.sms.manage",
+      "auth-ms.role.update",
+      "auth-ms.role.save",
+      "hlj.operation2.smartRetail",
+      "smartRetail.manager.entryEvent",
+      "smartRetail.manager.smartScreen",
+      "smart-screen-ms-backend.entryEvent.query",
+      "smart-screen-ms-backend.entryEvent.operate",
+      "smart-screen-ms-backend.smartScreen.query",
+      "smart-screen-ms-backend.smartScreen.operate",
+      "hlj.operation2",
+      "hlj.product2.pintuan.menu",
+      "hlj.order2.pintuan.menu",
+      "pintuan-ms-backend.pintuan.order.query",
+      "hlj.operation2.pushMessage",
+      "hlj.operation2.pushMessage.message.template.mini",
+      "hlj.product2",
+      "pintuan-ms-backend.pintuan.product.get",
+      "pintuan-ms-backend.pintuan.product.update",
+      "pintuan-ms-backend.pintuan.product.import",
+      "pintuan-ms-backend.pintuan.group.get",
+      "promo-backend-ms.store-promo.query",
+      "order-ms-backend.sale.list",
+      "module-ms-backend.module.publish",
+      "coupon-ms-digi-backend.commandCoupon",
+      "coupon-ms-digi-backend.commandCoupon.getList",
+      "marketing.manager.envelopedRain",
+      "smart-screen-ms-backend.envelopedRain.operate",
+      "smart-screen-ms-backend.envelopedRain.query",
+      "hlj.operation2.storeManage",
+      "support-ms-backend.storeManage.storeList",
+      "order-ms-backend.return.list",
+      "order-ms-backend.sale.audit",
+      "order-ms-backend.sale.cancel",
+      "order-ms-backend.sale.return",
+      "order-ms-backend.sale.update",
+      "order-ms-backend.sale.transPayConfirm",
+      "order-ms-backend.sale.query",
+      "order-ms-backend.return.update",
+      "order-ms-backend.return.productSendBack",
+      "order-ms-backend.return.cancelOrder",
+      "order-ms-backend.return.refundConfirm",
+      "order-ms-backend.return.rejectOrder",
+      "order-ms-backend.return.auditNoPass",
+      "order-ms-backend.return.auditOrder",
+      "order-ms-backend.return.query",
+      "peration.center.customOrderList",
+      "shop-ms-backend.customOrder.search",
+      "shop-ms-backend.customOrder.update",
+      "promo-backend-ms.promo.query",
+      "promo-backend-ms.promo.operate",
+      "order-ms-backend.sale.change",
+      "order-ms-backend.sale.reject",
+      "order-ms-backend.sale.fill",
+      "shop-ms-backend.customOrder.sync",
+      "shop-ms-backend.customOrder.resetPayNo",
+      "order-ms-backend.sale.batchTransPayConfirm",
+      "order-ms-backend.sale.batchAudit",
+      "order-ms-backend.sale.batchCancel",
+      "order-ms-backend.sale.export",
+      "order-ms-backend.sale.exceptionOrder",
+      "order-ms-backend.exception.exceptionList",
+      "order-ms-backend.exception.exceptionEnumList",
+      "order-ms-backend.exception.exceptionHandle",
+      "order-ms-backend.exception.exceptionBatchHandle",
+      "order-ms-backend.exception.exceptionDelete",
+      "order-ms-backend.exception.exceptionBatchDelete",
+      "hlj.order2.exceptionOrder",
+      "hlj.product2.productManage",
+      "pintuan-ms-backend.pintuan.image.uploadImage",
+      "pintuan-ms-backend.pintuan.product.updatePrice",
+      "pintuan-ms-backend.pintuan.product.export",
+      "module-ms-backend.homePage.storeRadio",
+      "module-ms-backend.homePage.query",
+      "module-ms-backend.homePage.add",
+      "module-ms-backend.homePage.update",
+      "module-ms-backend.navbar.operate",
+      "module-ms-backend.navbar.query",
+      "module-ms-backend.page.add",
+      "module-ms-backend.page.update",
+      "module-ms-backend.page.delete",
+      "module-ms-backend.page.query",
+      "hlj.product2.merchantProduct.menu",
+      "hlj.order2.merchantPintuan.menu",
+      "pintuan-ms-backend.pintuan.merchantOrder.query",
+      "pintuan-ms-backend.pintuan.merchantProduct.audit",
+      "pintuan-ms-backend.pintuan.merchantProduct.getAuditOpinion",
+      "pintuan-ms-backend.pintuan.merchantProduct.get",
+      "pintuan-ms-backend.pintuan.merchantProduct.updateSort",
+      "product-ms-backend.productManager.listProduct",
+      "product-ms-backend.productManager.listProductRebate",
+      "product-ms-backend.productManager.listProductTag",
+      "product-ms-backend.productManager.listSaleCategory",
+      "product-ms-backend.productManager.listOperatorCategory",
+      "product-ms-backend.productManager.listBrand",
+      "hlj.product2.other",
+      "product-ms-backend.other.listStock",
+      "product-ms-backend.other.listPrice",
+      "product-ms-backend.other.listBrandCountry",
+      "product-ms-backend.other.government",
+      "product-ms-backend.list",
+      "product-ms-backend.edit",
+      "hlj.page2",
+      "marketing.manager.coupon",
+      "hlj.order2.marketOrder",
+      "hlj.order2.invoice.menu",
+      "invoice-ms-backend.invoice.editInvoiceOrder",
+      "invoice-ms-backend.invoice.query",
+      "invoice-ms-backend.invoice.prepaidInvoice",
+      "invoice-ms-backend.invoice.saleInvoice",
+      "hlj.order2"
+    ],
+    "roles": [
+      {
+        "id": 29,
+        "name": "数字化技术中心",
+        "remark": "   数字化技术中心",
+        "roleType": 3
+      }
+    ],
+    "menus": [
+      {
+        "updatedAt": 1558590238000,
+        "menuKey": "hlj.product2",
+        "parentKey": "-ROOT-",
+        "name": "商品",
+        "subName": "商品中心",
+        "icon": "menu-icon-span ds-product-menu",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 3,
+        "children": [
+          {
+            "updatedAt": 1558947487000,
+            "menuKey": "hlj.product2.productManage",
+            "parentKey": "hlj.product2",
+            "name": "商品管理",
+            "icon": "imoon imoon-bookmark",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 8,
+            "children": [
+              {
+                "menuKey": "product-ms-backend.productManager.listProduct",
+                "parentKey": "hlj.product2.productManage",
+                "name": "商品列表",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/manage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 9
+              },
+              {
+                "menuKey": "product-ms-backend.productManager.listProductRebate",
+                "parentKey": "hlj.product2.productManage",
+                "name": "分享赚钱",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/share-makemoney",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 10
+              },
+              {
+                "menuKey": "product-ms-backend.productManager.listProductTag",
+                "parentKey": "hlj.product2.productManage",
+                "name": "商品角标",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/badge",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 11
+              },
+              {
+                "menuKey": "product-ms-backend.productManager.listSaleCategory",
+                "parentKey": "hlj.product2.productManage",
+                "name": "销售分类",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/category-mobile",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 12
+              },
+              {
+                "menuKey": "product-ms-backend.productManager.listOperatorCategory",
+                "parentKey": "hlj.product2.productManage",
+                "name": "运营分类",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/category-operation",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 13
+              },
+              {
+                "menuKey": "product-ms-backend.productManager.listBrand",
+                "parentKey": "hlj.product2.productManage",
+                "name": "品牌管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/brand-manage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 14
+              },
+              {
+                "menuKey": "hlj.product2.pintuan.menu",
+                "parentKey": "hlj.product2.productManage",
+                "name": "超市拼团商品",
+                "url": "/admin/commodity/group-buy/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 15
+              },
+              {
+                "menuKey": "hlj.product2.merchantProduct.menu",
+                "parentKey": "hlj.product2.productManage",
+                "name": "百货拼团商品",
+                "url": "/admin/group-booking/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 16
+              },
+              {
+                "menuKey": "hlj.distribution.hot.list.parent",
+                "parentKey": "hlj.product2.productManage",
+                "name": "分享赚钱商品",
+                "icon": "glyphicon glyphicon-fire",
+                "url": "/hlj/distribution/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 17
+              },
+              {
+                "menuKey": "product-ms-ent-backend.productManager.listProduct",
+                "parentKey": "hlj.product2.productManage",
+                "name": "福利购商品列表",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/product/welfareproduct",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 18
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558590502000,
+            "menuKey": "hlj.product2.adjustPrice",
+            "parentKey": "hlj.product2",
+            "name": "调价",
+            "icon": "glyphicon-menu-hamburger",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 19,
+            "children": [
+              {
+                "menuKey": "product-ms-ent-backend.productManager.listSkuPriceDetail",
+                "parentKey": "hlj.product2.adjustPrice",
+                "name": "福利购调价记录",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/product/welfarerecord",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 20
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558947487000,
+            "menuKey": "hlj.product2.other",
+            "parentKey": "hlj.product2",
+            "name": "其他",
+            "icon": "imoon imoon-bookmark",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 21,
+            "children": [
+              {
+                "menuKey": "product-ms-backend.other.listStock",
+                "parentKey": "hlj.product2.other",
+                "name": "库存查询",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/inventory-query",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 22
+              },
+              {
+                "menuKey": "product-ms-backend.other.listPrice",
+                "parentKey": "hlj.product2.other",
+                "name": "价格管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/manager-pirce",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 23
+              },
+              {
+                "menuKey": "product-ms-backend.other.listBrandCountry",
+                "parentKey": "hlj.product2.other",
+                "name": "品牌国管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/brand-country",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 24
+              },
+              {
+                "menuKey": "product-ms-backend.other.government",
+                "parentKey": "hlj.product2.other",
+                "name": "政府采购",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/commodity-manage/government",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 25
+              },
+              {
+                "menuKey": "hlj.brandManage.list.parent",
+                "parentKey": "hlj.product2.other",
+                "name": "品牌搜索管理",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/brandManage/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1559006357000,
+        "menuKey": "hlj.order2",
+        "parentKey": "-ROOT-",
+        "name": "订单",
+        "subName": "订单中心",
+        "icon": "menu-icon-span ds-order-menu",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 27,
+        "children": [
+          {
+            "updatedAt": 1559006357000,
+            "menuKey": "hlj.order2.marketOrder",
+            "parentKey": "hlj.order2",
+            "name": "销售订单",
+            "icon": "imoon imoon-bookmark",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 28,
+            "children": [
+              {
+                "menuKey": "hlj.order2.pintuan.menu",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "超市拼团订单",
+                "url": "/admin/order/group-order/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 29
+              },
+              {
+                "menuKey": "hlj.order2.merchantPintuan.menu",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "百货拼团订单",
+                "url": "/admin/order/group-order/merchandise/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 30
+              },
+              {
+                "menuKey": "order-ms-backend.sale.list",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "销售订单",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/order/salesOrder",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 31
+              },
+              {
+                "menuKey": "order-ms-ent-backend.orderManager.list",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "福利购订单",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/order/layout",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 32
+              },
+              {
+                "menuKey": "hlj.onlineticket.list.parent",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "电子小票",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/onlineticket/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 33
+              },
+              {
+                "menuKey": "hlj.order2.invoice.menu",
+                "parentKey": "hlj.order2.marketOrder",
+                "name": "发票管理",
+                "url": "/admin/order/invoice-management/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 34
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558947110000,
+            "menuKey": "hlj.order2.afterSaleOrder",
+            "parentKey": "hlj.order2",
+            "name": "售后",
+            "icon": "imoon imoon-bookmark",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 35,
+            "children": [
+              {
+                "menuKey": "order-ms-backend.return.list",
+                "parentKey": "hlj.order2.afterSaleOrder",
+                "name": "售后订单",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/order/afterServiceOrder",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 36
+              },
+              {
+                "menuKey": "hlj.onlineticket.service_list.parent",
+                "parentKey": "hlj.order2.afterSaleOrder",
+                "name": "电子小票售后",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/onlineticket/service_list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 37
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.order2.evaluate",
+            "parentKey": "hlj.order2",
+            "name": "评价",
+            "icon": "glyphicon-folder-close",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 38,
+            "children": [
+              {
+                "menuKey": "comment-admin.commentManager.comment-list",
+                "parentKey": "hlj.order2.evaluate",
+                "name": "商品评价",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/comment/index",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 39
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558947110000,
+            "menuKey": "hlj.order2.exceptionOrder",
+            "parentKey": "hlj.order2",
+            "name": "异常管理",
+            "icon": "glyphicon-folder-close",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 40,
+            "children": [
+              {
+                "menuKey": "order-ms-backend.sale.exceptionOrder",
+                "parentKey": "hlj.order2.exceptionOrder",
+                "name": "异常订单",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/order/abnormalOrder",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 41
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1558590448000,
+        "menuKey": "hlj.member2",
+        "parentKey": "-ROOT-",
+        "name": "会员",
+        "subName": "会员中心",
+        "icon": "menu-icon-span ds-member-menu",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 42,
+        "children": [
+          {
+            "updatedAt": 1558590448000,
+            "menuKey": "hlj.member2.member",
+            "parentKey": "hlj.member2",
+            "name": "会员",
+            "icon": "glyphicon-folder-close",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 43,
+            "children": [
+              {
+                "menuKey": "member-ms-backend.enterpriseManager.enterpriseList",
+                "parentKey": "hlj.member2.member",
+                "name": "福利购大客户管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/member/layout",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 44
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558590448000,
+            "menuKey": "hlj.member2.operation",
+            "parentKey": "hlj.member2",
+            "name": "会员运营",
+            "icon": "glyphicon-folder-close",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 45,
+            "children": [
+              {
+                "menuKey": "member-ms-backend.enterpriseManager.MemberLabelManagerList",
+                "parentKey": "hlj.member2.operation",
+                "name": "标签管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/member/label/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 46
+              },
+              {
+                "menuKey": "member-ms-backend.enterpriseManager.MemberLabelBagManagerList",
+                "parentKey": "hlj.member2.operation",
+                "name": "品类关联标签",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/member/label/category",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 47
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1559008817000,
+        "menuKey": "hlj.marketing2",
+        "parentKey": "-ROOT-",
+        "name": "营销",
+        "subName": "营销中心",
+        "icon": "menu-icon-span ds-marketing-menu",
+        "url": "",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 48,
+        "children": [
+          {
+            "updatedAt": 1558690891000,
+            "menuKey": "hlj.marketing2.promotion",
+            "parentKey": "hlj.marketing2",
+            "name": "促销",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 49,
+            "children": [
+              {
+                "menuKey": "marketing.manager.promo",
+                "parentKey": "hlj.marketing2.promotion",
+                "name": "促销活动",
+                "icon": "",
+                "url": "/admin/marketing-manage/promo",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 50
+              },
+              {
+                "menuKey": "marketing.manager.store-promo",
+                "parentKey": "hlj.marketing2.promotion",
+                "name": "专柜促销",
+                "icon": "",
+                "url": "/admin/marketing-manage/shoppe-promo",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 51
+              }
+            ]
+          },
+          {
+            "updatedAt": 1559008817000,
+            "menuKey": "hlj.marketing2.online",
+            "parentKey": "hlj.marketing2",
+            "name": "线上",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 52,
+            "children": [
+              {
+                "menuKey": "marketing.manager.coupon",
+                "parentKey": "hlj.marketing2.online",
+                "name": "线上优惠券",
+                "icon": "",
+                "url": "/admin/marketing-manage/onlineCoupon",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 54
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.marketing2.offline",
+            "parentKey": "hlj.marketing2",
+            "name": "线下",
+            "icon": "imoon imoon-bookmark",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 55,
+            "children": [
+              {
+                "menuKey": "hlj.coupon.use.info",
+                "parentKey": "hlj.marketing2.offline",
+                "name": "用券报表",
+                "icon": "glyphicon glyphicon-equalizer",
+                "url": "/hlj/coupon/report/use_info",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 56
+              },
+              {
+                "menuKey": "hlj.coupon.abolition.list",
+                "parentKey": "hlj.marketing2.offline",
+                "name": "优惠券废除",
+                "icon": "glyphicon glyphicon-trash",
+                "url": "/hlj/coupon/abolition/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 57
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.marketing2.circumShop",
+            "parentKey": "hlj.marketing2",
+            "name": "周边商户",
+            "icon": "imoon imoon-bookmark",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 58,
+            "children": [
+              {
+                "menuKey": "hlj.merchants.coupon.abolition.list",
+                "parentKey": "hlj.marketing2.circumShop",
+                "name": "周边券废除",
+                "icon": "glyphicon glyphicon-trash",
+                "url": "/hlj/merchants/coupon/abolition/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 59
+              },
+              {
+                "menuKey": "hlj.coupon.zbsh.use.info",
+                "parentKey": "hlj.marketing2.circumShop",
+                "name": "周边券报表",
+                "icon": "glyphicon glyphicon-equalizer",
+                "url": "/hlj/coupon/report/zbsh_use_info",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 60
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.coupon_activities",
+            "parentKey": "hlj.marketing2",
+            "name": "优惠券活动",
+            "icon": "imoon imoon-bookmark",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 61,
+            "children": [
+              {
+                "menuKey": "marketing.manager.envelopedRain",
+                "parentKey": "hlj.coupon_activities",
+                "name": "门店数字化红包雨",
+                "icon": "",
+                "url": "/admin/marketing/coupon-activity/red-envelope-rain/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 62
+              },
+              {
+                "menuKey": "hlj.activity.opact_list.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "运营小活动",
+                "icon": "glyphicons glyphicons-text_underline",
+                "url": "/hlj/activity/opact_list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 63
+              },
+              {
+                "menuKey": "hlj.activity.couponcfg_list",
+                "parentKey": "hlj.coupon_activities",
+                "name": "券活动配置",
+                "icon": "imoon imoon-paste2",
+                "url": "/hlj/activity/couponcfg_list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 64
+              },
+              {
+                "menuKey": "hlj.activity.H5.index.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "H5赠券",
+                "icon": "glyphicon glyphicon-fire",
+                "url": "/hlj/activity/H5/sendCoupon/index",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 65
+              },
+              {
+                "menuKey": "hlj.draw.list.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "消费满额抽奖",
+                "icon": "",
+                "url": "/hlj/draw/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 66
+              },
+              {
+                "menuKey": "hlj.coupon_bag.list",
+                "parentKey": "hlj.coupon_activities",
+                "name": "优惠券礼包",
+                "icon": "glyphicon glyphicon-menu-hamburger",
+                "url": "/hlj/coupon_bag/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 67
+              },
+              {
+                "menuKey": "hlj.coupon_bag.refund.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "礼包退券报表",
+                "icon": "",
+                "url": "/hlj/coupon_bag/refund",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 68
+              },
+              {
+                "menuKey": "hlj.coupon_bag.expire.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "礼包过期券报表",
+                "icon": "glyphicon glyphicon-menu-hamburger",
+                "url": "/hlj/coupon_bag/expire",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 69
+              },
+              {
+                "menuKey": "hlj.couponShare.list.parent",
+                "parentKey": "hlj.coupon_activities",
+                "name": "券分享列表",
+                "icon": "",
+                "url": "/hlj/couponShare/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1559008700000,
+        "menuKey": "hlj.page2",
+        "parentKey": "-ROOT-",
+        "name": "页面",
+        "subName": "页面装修",
+        "icon": "menu-icon-span ds-page-menu",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 71,
+        "children": [
+          {
+            "updatedAt": 1558522957000,
+            "menuKey": "hlj.page2.functionPage",
+            "parentKey": "hlj.page2",
+            "name": "功能页面",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 72,
+            "children": [
+              {
+                "menuKey": "hlj.page2.functionPage.home",
+                "parentKey": "hlj.page2.functionPage",
+                "name": "装修首页",
+                "icon": "",
+                "url": "/admin/storeConstruction/homePage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 73
+              },
+              {
+                "menuKey": "hlj.page2.functionPage.shop",
+                "parentKey": "hlj.page2.functionPage",
+                "name": "装修购物",
+                "icon": "",
+                "url": "/admin/storeConstruction/shopping",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 74
+              },
+              {
+                "menuKey": "hlj.page2.functionPage.page",
+                "parentKey": "hlj.page2.functionPage",
+                "name": "子页面",
+                "icon": "",
+                "url": "/admin/storeConstruction/customPage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 75
+              },
+              {
+                "menuKey": "hlj.page2.functionPage.navbar",
+                "parentKey": "hlj.page2.functionPage",
+                "name": "宫格导航",
+                "icon": "",
+                "url": "/admin/storeConstruction/navbar",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 76
+              },
+              {
+                "menuKey": "hlj.distribution.banner.list.parent",
+                "parentKey": "hlj.page2.functionPage",
+                "name": "分享赚钱",
+                "icon": "",
+                "url": "/hlj/distribution/banner/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 77
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558590860000,
+            "menuKey": "hlj.page2.shop_license",
+            "parentKey": "hlj.page2",
+            "name": "店铺",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 81,
+            "children": [
+              {
+                "menuKey": "shop.enterprise.qualification",
+                "parentKey": "hlj.page2.shop_license",
+                "name": "企业资质",
+                "icon": "",
+                "url": "/admin/pages/firmPage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 82
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1558590869000,
+        "menuKey": "hlj.operation2",
+        "parentKey": "-ROOT-",
+        "name": "运营",
+        "subName": "运营中心",
+        "icon": "menu-icon-span ds-operation-menu",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 83,
+        "children": [
+          {
+            "updatedAt": 1558947487000,
+            "menuKey": "hlj.product2.page",
+            "parentKey": "hlj.operation2",
+            "name": "PC管理",
+            "icon": "glyphicon-menu-hamburger",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 84,
+            "children": [
+              {
+                "menuKey": "product-ms-backend.page.listPageCategory",
+                "parentKey": "hlj.product2.page",
+                "name": "PC页面管理",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/operation/pcmanage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 85
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558590869000,
+            "menuKey": "hlj.operation2.storeManage",
+            "parentKey": "hlj.operation2",
+            "name": "门店管理",
+            "icon": "glyphicon-folder-close",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 86,
+            "children": [
+              {
+                "menuKey": "support-ms-backend.storeManage.storeList",
+                "parentKey": "hlj.operation2.storeManage",
+                "name": "门店列表",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/store/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 87
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.sms.manage",
+            "parentKey": "hlj.operation2",
+            "name": "短信管理",
+            "icon": "glyphicons glyphicons-cargo",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 89,
+            "children": [
+              {
+                "menuKey": "hlj.sms.customer_visit",
+                "parentKey": "hlj.sms.manage",
+                "name": "顾客来访",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/sms/customer_visit",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 94
+              },
+              {
+                "menuKey": "hlj.sms.blacklist_management",
+                "parentKey": "hlj.sms.manage",
+                "name": "黑名单管理",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/sms/blacklist_management",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 95
+              },
+              {
+                "menuKey": "hlj.sms.statistics_report",
+                "parentKey": "hlj.sms.manage",
+                "name": "计费统计报表",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/sms/statistics_report",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 96
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operation2.weixinGiftCard",
+            "parentKey": "hlj.operation2",
+            "name": "微信礼品卡",
+            "icon": "glyphicons glyphicons-cargo",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 101,
+            "children": [
+              {
+                "menuKey": "hlj.ecard.page.edit",
+                "parentKey": "hlj.operation2.weixinGiftCard",
+                "name": "货架内容",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/pageEdit",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 102
+              },
+              {
+                "menuKey": "hlj.ecard.cardTheme.list",
+                "parentKey": "hlj.operation2.weixinGiftCard",
+                "name": "主题列表",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/cardThemeList",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 103
+              },
+              {
+                "menuKey": "hlj.ecard.giftCard.list",
+                "parentKey": "hlj.operation2.weixinGiftCard",
+                "name": "卡券列表",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/wxCardList",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 104
+              },
+              {
+                "menuKey": "hlj.ecard.report.list",
+                "parentKey": "hlj.operation2.weixinGiftCard",
+                "name": "报表数据",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/reportList",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 105
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558590860000,
+            "menuKey": "hlj.operation2.merchantManage",
+            "parentKey": "hlj.operation2",
+            "name": "商家管理",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 106,
+            "children": [
+              {
+                "menuKey": "peration.center.customOrderList",
+                "parentKey": "hlj.operation2.merchantManage",
+                "name": "报关管理",
+                "icon": "",
+                "url": "/admin/operation/customs-management",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 107
+              },
+              {
+                "menuKey": "peration.center.shopList",
+                "parentKey": "hlj.operation2.merchantManage",
+                "name": "店铺列表",
+                "icon": "",
+                "url": "/admin/operation/store",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 108
+              },
+              {
+                "menuKey": "peration.center.auth",
+                "parentKey": "hlj.operation2.merchantManage",
+                "name": "店铺权限",
+                "icon": "",
+                "url": "/admin/operation/permission",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 109
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operate.appCard.manage",
+            "parentKey": "hlj.operation2",
+            "name": "虹包",
+            "icon": "glyphicons glyphicons-cargo",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 110,
+            "children": [
+              {
+                "menuKey": "hlj.ecard.appCard.cardManage",
+                "parentKey": "hlj.operate.appCard.manage",
+                "name": "卡面管理",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/appCardManage",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 111
+              },
+              {
+                "menuKey": "hlj.ecard.appCard.cardAmount",
+                "parentKey": "hlj.operate.appCard.manage",
+                "name": "面额管理",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/appCardAmount",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 112
+              },
+              {
+                "menuKey": "hlj.ecard.appCardReport.list",
+                "parentKey": "hlj.operate.appCard.manage",
+                "name": "售卡报表",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/ecard/appCardReportList",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 113
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operate.newpad.manage",
+            "parentKey": "hlj.operation2",
+            "name": "自助收银机",
+            "icon": "glyphicons glyphicons-cargo",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 114,
+            "children": [
+              {
+                "menuKey": "hlj.newpad.devicestoreList",
+                "parentKey": "hlj.operate.newpad.manage",
+                "name": "设备管理",
+                "icon": "glyphicons glyphicons-cart_in",
+                "url": "/hlj/newPad/deviceStoreList",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 115
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operate.template.manage",
+            "parentKey": "hlj.operation2",
+            "name": "点评中心",
+            "icon": "glyphicons glyphicons-notes_2",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 116,
+            "children": [
+              {
+                "menuKey": "hlj.template.list",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "门店服务点评",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/template/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 117
+              },
+              {
+                "menuKey": "hlj.template.merchant.list",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "商户点评",
+                "icon": "glyphicons glyphicons-notes_2",
+                "url": "/hlj/template/merchantlist2",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 118
+              },
+              {
+                "menuKey": "comment-admin.commentManager.comment-activity-pos",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "超市pos收银",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/comment-activity/pos",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 119
+              },
+              {
+                "menuKey": "comment-admin.commentManager.comment-activity-zzmd",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "手机自助买单",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/comment-activity/zzmd",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 120
+              },
+              {
+                "menuKey": "comment-admin.commentManager.comment-activity-pad",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "百货pos、专柜PAD收银",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/comment-activity/pad",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 121
+              },
+              {
+                "menuKey": "comment-admin.commentManager.comment-department",
+                "parentKey": "hlj.operate.template.manage",
+                "name": "内部客户评价",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/comment-department/department",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 122
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operation2.pushMessage",
+            "parentKey": "hlj.operation2",
+            "name": "模板消息管理",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 123,
+            "children": [
+              {
+                "menuKey": "hlj.operation2.pushMessage.message.template.mini",
+                "parentKey": "hlj.operation2.pushMessage",
+                "name": "小程序模板消息",
+                "icon": "",
+                "url": "/admin/message-template/wechat",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 124
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operate.store.manage",
+            "parentKey": "hlj.operation2",
+            "name": "门店商户",
+            "icon": "glyphicons glyphicons-notes_2 ",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 129,
+            "children": [
+              {
+                "menuKey": "hlj.receipt.audit_list.parent",
+                "parentKey": "hlj.operate.store.manage",
+                "name": "商户小票管理",
+                "icon": "",
+                "url": "/hlj/receipt/audit_list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 130
+              },
+              {
+                "menuKey": "hlj.integral.store.list.parent",
+                "parentKey": "hlj.operate.store.manage",
+                "name": "门店列表",
+                "icon": "",
+                "url": "/hlj/integral/store/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 131
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.operation2.smartRetail",
+            "parentKey": "hlj.operation2",
+            "name": "智慧零售",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 132,
+            "children": [
+              {
+                "menuKey": "smartRetail.manager.entryEvent",
+                "parentKey": "hlj.operation2.smartRetail",
+                "name": "数字化大屏",
+                "icon": "",
+                "url": "/admin/operation/smart-retail/screen-activity/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 133
+              },
+              {
+                "menuKey": "smartRetail.manager.smartScreen",
+                "parentKey": "hlj.operation2.smartRetail",
+                "name": "大屏设备管理",
+                "icon": "",
+                "url": "/admin/operation/smart-retail/screen-management/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 134
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "updatedAt": 1558689669000,
+        "menuKey": "hlj.system2",
+        "parentKey": "-ROOT-",
+        "name": "系统",
+        "subName": "系统管理",
+        "icon": "menu-icon-span ds-system-menu",
+        "url": "",
+        "leafNode": 0,
+        "showStrategy": 0,
+        "orderNum": 137,
+        "children": [
+          {
+            "updatedAt": 1558590448000,
+            "menuKey": "hlj.system2.basicInfo",
+            "parentKey": "hlj.system2",
+            "name": "基础信息",
+            "icon": "imoon imoon-bookmark",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 138,
+            "children": [
+              {
+                "menuKey": "app-version-ms-admin.versionList.versionList",
+                "parentKey": "hlj.system2.basicInfo",
+                "name": "应用版本",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/appsVersion/app",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 139
+              },
+              {
+                "menuKey": "member-ms-backend.enterpriseManager.balanceList",
+                "parentKey": "hlj.system2.basicInfo",
+                "name": "福利购交易日志",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/admin/member/enterprise-log",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 140
+              },
+              {
+                "menuKey": "comment-admin.commentManager.sensitive-word-list",
+                "parentKey": "hlj.system2.basicInfo",
+                "name": "评论敏感词",
+                "icon": "glyphicon-menu-hamburger",
+                "url": "/comment-admin/senstiveword/index",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 141
+              },
+              {
+                "menuKey": "system.basicInfo.paySafe",
+                "parentKey": "hlj.system2.basicInfo",
+                "name": "支付安全",
+                "icon": "",
+                "url": "/admin/system/paySafe/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 142
+              },
+              {
+                "menuKey": "hlj.sysoptions.list.parent",
+                "parentKey": "hlj.system2.basicInfo",
+                "name": "数据字典",
+                "icon": "",
+                "url": "/hlj/sysoptions/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 143
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558689669000,
+            "menuKey": "hlj.system2.account",
+            "parentKey": "hlj.system2",
+            "name": "账号",
+            "icon": "",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 144,
+            "children": [
+              {
+                "menuKey": "system.manager.userAuthManage",
+                "parentKey": "hlj.system2.account",
+                "name": "管理员",
+                "icon": "",
+                "url": "/admin/systems-layout",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 145
+              },
+              {
+                "menuKey": "system.manager.roleManage",
+                "parentKey": "hlj.system2.account",
+                "name": "角色管理",
+                "icon": "",
+                "url": "/admin/role-layout",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 146
+              },
+              {
+                "menuKey": "hlj.sys.user.info.parent",
+                "parentKey": "hlj.system2.account",
+                "name": "个人中心",
+                "url": "/hlj/sys/user/info",
+                "leafNode": 0,
+                "showStrategy": 1,
+                "orderNum": 147
+              }
+            ]
+          },
+          {
+            "updatedAt": 1558426364000,
+            "menuKey": "hlj.system2.userSuggest",
+            "parentKey": "hlj.system2",
+            "name": "用户建议",
+            "icon": "imoon imoon-bookmark",
+            "url": "",
+            "leafNode": 0,
+            "showStrategy": 0,
+            "orderNum": 148,
+            "children": [
+              {
+                "menuKey": "hlj.feedback.advice.list",
+                "parentKey": "hlj.system2.userSuggest",
+                "name": "建议列表",
+                "icon": "glyphicons glyphicons-settings",
+                "url": "/hlj/feedback/advice/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 149
+              },
+              {
+                "menuKey": "hlj.feedback.complaints.list",
+                "parentKey": "hlj.system2.userSuggest",
+                "name": "吐槽列表",
+                "icon": "glyphicons glyphicons-settings",
+                "url": "/hlj/feedback/complaints/list",
+                "leafNode": 0,
+                "showStrategy": 2,
+                "orderNum": 150
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "applications": [
+      {
+        "code": "daojia",
+        "name": "天虹到家",
+        "url": "/daojia-support-admin/index",
+        "category": 1,
+        "orderNum": 1
+      },
+      {
+        "code": "hlj",
+        "name": "电商",
+        "url": "/admin/index",
+        "category": 1,
+        "orderNum": 2
+      }
+    ],
+    "pk": "0"
+  }
+}

@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.19.3",
+    "classnames": "^2.2.6",
+    "dva": "^2.4.1",
+    "dva-loading": "^3.0.5",
+    "lodash": "^4.17.11",
+    "normalize.css": "^8.0.1",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "tucchun-cli-scripts": "1.0.5"
+    "tucchun-cli-scripts": "1.0.5",
+    "url-polyfill": "^1.1.5"
   },
   "scripts": {
     "start": "tucchun-cli-scripts start",
@@ -27,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.12.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0"
   }
 }
