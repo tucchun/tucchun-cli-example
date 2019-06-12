@@ -1,0 +1,31 @@
+{
+  "name": "tucchun-cli-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "tucchun-cli-scripts": "1.0.5"
+  },
+  "scripts": {
+    "start": "tucchun-cli-scripts start",
+    "build": "tucchun-cli-scripts build",
+    "test": "tucchun-cli-scripts test",
+    "eject": "tucchun-cli-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
